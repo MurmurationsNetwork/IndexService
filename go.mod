@@ -9,7 +9,7 @@ require (
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-playground/assert/v2 v2.0.1
-	github.com/go-redis/redis/v8 v8.8.3
+	github.com/go-redis/redis/v8 v8.11.3
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/nats-io/nats-server/v2 v2.1.8 // indirect
 	github.com/nats-io/nats-streaming-server v0.18.0 // indirect
@@ -21,5 +21,4 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 	go.mongodb.org/mongo-driver v1.5.2
 	go.uber.org/zap v1.18.1
-	google.golang.org/protobuf v1.25.0 // indirect
 )
